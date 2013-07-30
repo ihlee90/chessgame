@@ -3,6 +3,10 @@ package chessgame;
 public class Pawn {
 	private String color ;
 
+	Pawn( ){
+		color = "white";
+	}
+	
 	Pawn( String pColor){
 		color = pColor;
 	}
