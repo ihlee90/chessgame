@@ -2,6 +2,14 @@ package chessgame;
 
 import junit.framework.TestCase;
 
+/**
+ * 
+ * @author Ig-hoon Lee
+ * 
+ * Class BoartTest: Test driven test for a board of a chess game. 
+ *
+ */
+ 
 public class BoardTest extends TestCase {
 	final String COLOR_WHITE = "white";
 	final String COLOR_BLACK = "black";
