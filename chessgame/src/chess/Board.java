@@ -4,6 +4,8 @@ package chess;
 import java.util.ArrayList;
 import java.lang.System;
 
+import pieces.Pawn;
+
 public class Board {
 	private static int numOfItems=0;
 		

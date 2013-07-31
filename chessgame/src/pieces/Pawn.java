@@ -1,13 +1,13 @@
-package chessgame;
+package pieces;
 
 public class Pawn {
 	private String color ;
 
-	Pawn( ){
+	public Pawn( ){
 		color = "white";
 	}
 	
-	Pawn( String pColor){
+	public Pawn( String pColor){
 		color = pColor;
 	}
 
